@@ -164,6 +164,7 @@ python3 -m unittest -v testingCrearemos.py
 | Versión | Fecha | Descripción del cambio |
 |---|---|---|
 | 0.1.0 | 2026-03-22 | Inicialización del repositorio y migración de código base desde la Unidad 1 |
+| 0.1.1 | 2026-05-03 | Actual: Incorporación de README.md técnico y checklist de seguridad |
 
 ---
 
