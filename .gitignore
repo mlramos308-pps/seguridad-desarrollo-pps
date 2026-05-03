@@ -1,0 +1,33 @@
+# .gitignore - PPS1
+# Referencia:  [Python .gitignore: Clean Repository Management](https://www.pythoncentral.io/python-gitignore-clean-repository-management/)
+) 
+# Caché de Python - se genera solo, no tiene sentido subirlo
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual → cada uno tiene el suyo local
+.venv/
+venv/
+env/
+
+# Logs → pueden tener rutas del sistema o datos del usuario
+*.log
+logs/
+
+# Secretos y variables de entorno → NUNCA al repo
+.env
+secrets.env
+*.env
+
+# Base de datos local
+*.sqlite3
+*.db
+
+# Reportes de cobertura de tests
+.coverage
+htmlcov/
+.pytest_cache/
+
+# VS Code
+.vscode/
