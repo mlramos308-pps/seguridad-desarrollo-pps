@@ -161,10 +161,14 @@ python3 -m unittest -v testingCrearemos.py
 
 ## Historial de versiones
 
+## Historial de versiones
+
 | Versión | Fecha | Descripción del cambio |
 |---|---|---|
 | 0.1.0 | 2026-03-22 | Inicialización del repositorio y migración de código base desde la Unidad 1 |
-| 0.1.1 | 2026-05-03 | Actual: Incorporación de README.md técnico y checklist de seguridad |
+| 0.1.1 | 2026-05-03 | Incorporación de README.md técnico y checklist de seguridad |
+| 0.1.2 | 2026-05-03 | Configuración de higiene del repositorio en el .gitignore |
+| 0.2.0 | 2026-05-04 | Actual: Implementación de identidad verificada mediante firmado GPG |
 
 ---
 
